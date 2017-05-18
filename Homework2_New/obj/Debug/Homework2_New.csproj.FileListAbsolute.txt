@@ -1,0 +1,6 @@
+D:\DSOD\Homework2\Homework2_New\Homework2_New\bin\Debug\Homework2_New.exe.config
+D:\DSOD\Homework2\Homework2_New\Homework2_New\bin\Debug\Homework2_New.exe
+D:\DSOD\Homework2\Homework2_New\Homework2_New\bin\Debug\Homework2_New.pdb
+D:\DSOD\Homework2\Homework2_New\Homework2_New\obj\Debug\Homework2_New.exe
+D:\DSOD\Homework2\Homework2_New\Homework2_New\obj\Debug\Homework2_New.pdb
+D:\DSOD\Homework2\Homework2_New\Homework2_New\obj\Debug\Homework2_New.csprojResolveAssemblyReference.cache
